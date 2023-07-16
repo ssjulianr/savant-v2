@@ -6,8 +6,8 @@ const app = express()
   app.use(cors())
 
 const connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
+    host: 'savant.czrh3mi43dg5.us-east-2.rds.amazonaws.com',
+    user: 'admin',
     password: 'password',
     database: 'eComm'
   });
