@@ -9,7 +9,7 @@ const Footer = () => {
     <>
         <footer className = 'section-p1'>
             <div className = 'col'>
-                <img src = {Savant} className = 'logo' alt = 'logo'/>
+                <img src = 'https://raw.githubusercontent.com/ssjulianr/savant/main/images/savant.webp' className = 'logo' alt = 'logo'/>
                     <h4>Contact: </h4>
                         <p><strong>Address: </strong> P. Sherman 42 Wallaby Way, Sydney, AU </p>
                         <p><strong>Phone: </strong> (281) 330-8004 </p>

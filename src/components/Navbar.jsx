@@ -22,7 +22,7 @@ const Navbar = () => {
 
       <nav>
         <Link to='/'>
-          <img src={Savant} alt='logo' className='logo' />
+          <img src='https://raw.githubusercontent.com/ssjulianr/savant/main/images/savant.webp' alt='logo' className='logo' />
         </Link>
         <ul id='navbar'>
           <li>
