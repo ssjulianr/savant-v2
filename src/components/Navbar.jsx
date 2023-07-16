@@ -7,7 +7,7 @@ import Contact from '../pages/Contact';
 import Cart from '../pages/Cart';
 import Smerch from '../pages/Smerch'
 
-import Savant from '../images/savant.jpg'
+import Savant from '../images/savant.webp'
 
 import { FaBagShopping } from 'react-icons/fa6';
 

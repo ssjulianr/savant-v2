@@ -1,5 +1,5 @@
 import React from 'react'
-import Savant from '../images/savant.jpg'
+import Savant from '../images/savant.webp'
 import Pay from '../images/img/pay/pay.png'
 import { Link } from 'react-router-dom'
 import { FaInstagram, FaTwitter, FaTiktok, FaYoutube, FaSoundcloud } from 'react-icons/fa6'
